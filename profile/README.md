@@ -32,7 +32,7 @@
   ### 📬 Connect
 
   <p>
-    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <a href="https://www.linkedin.com/in/artiolilabs" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
     </a>
     &nbsp;&nbsp;
